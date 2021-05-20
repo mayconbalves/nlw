@@ -2,7 +2,8 @@
   "name": "api",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "MIT"
+  "author": "MD"
   "scripts": {
     "dev": "ts-node-dev --transpile-only --ignore-watch node_modules src/server.ts"
   },
